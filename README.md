@@ -1,7 +1,7 @@
 PitchShifter
 ===================================
 
-![image](screenshot.png)
+![image](https://github.com/danomatika/PitchShifter/raw/master/screenshot.png)
 
 Copyright (c) [Dan Wilcox](danomatika.com) 2011
 
